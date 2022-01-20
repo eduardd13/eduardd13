@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anghel Eduard Florin 
-- 👀 I’m interested in IT-SOFTWEAR , JAVASCRIPT, HTML, CSS, REACT.
+- 👀 I’m interested in IT-SOFTWARE , JAVASCRIPT, HTML, CSS, REACT.
 - 🌱 I’m currently JAVASCRIPT FUNDAMENTALS ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eduard.anghelflorin@gmail.com
